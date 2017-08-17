@@ -5,7 +5,9 @@ and durability of persistent memory to minimize redundant write operations used 
 
 ## Publication
 
-Taeho Hwang, Jaemin Jung, and Youjip Won, "HEAPO: Heap-based Persistent Object Store", ACM Transactions on Storage, Accepted for publication, May 2014
+Jihye Seo , Wook-Hee Kim, Woongki Baek, Beomseok Nam, and Sam H. Noh 
+"Failure-Atomic Slotted Paging for Persistent Memory", 
+22nd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17), (17% a/r), Xi'an, China, Apr. 2017. 
 
 ## Acknowledgement
 This research was supported by MKE/KEIT (No.10041608, Embedded System Software for New Memory based Smart Devices), MSIP (No. R0190-15-2012, High Performance Big Data Analytics Platform Performance Acceleration Technologies Development) and National Research Foundation of Korea (No. 2014R1A1A2058843).
